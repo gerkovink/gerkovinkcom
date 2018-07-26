@@ -20,7 +20,7 @@ The mice package contains functions to:
 5. Pool the results of the repeated analyses
 6. Store and export the imputed data in various formats
   - to e.g. SPSS, MPlus
-7. Generate simulated incomplete data with [`ampute`](https://stefvanbuuren.github.io/mice/ampute.html)
+7. Generate simulated incomplete data with [`ampute` [pdf]](https://rianneschouten.github.io/mice_ampute/manuscript/manuscript.pdf)[[vignette]](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)
 8. Incorporate custom imputation methods
 9. Choose which cells to conditionally impute
 
