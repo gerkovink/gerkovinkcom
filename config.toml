@@ -18,7 +18,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     info = "statistical scientist" # Author's job title or info.
     description = "" # Site description.
     keywords = "Gerko Vink, Gerko, Vink, Developer, Statistician" # Site keywords.
-    avatarurl = "images/gerko_pixel.png" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/gerko_cartoon.png" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "occasional Bayesian | incidental frequentist | properly uncertain" # Add footer content
 
