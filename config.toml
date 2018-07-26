@@ -1,4 +1,4 @@
-baseURL = "https://www.gerkovink.com"
+baseURL = "https://gerkovink.github.io"
 languageCode = "en-us"
 title = "Gerko Vink"
 theme = "coder" # Set the theme.
