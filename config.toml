@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Gerko Vink 2" # Author's name.
+    author = "Gerko Vink" # Author's name.
     info = "statistical scientist" # Author's job title or info.
     description = "" # Site description.
     keywords = "Gerko Vink, Gerko, Vink, Developer, Statistician" # Site keywords.
