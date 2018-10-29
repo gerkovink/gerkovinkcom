@@ -9,7 +9,7 @@ draft: false
 #### Meet the research team:
 - [Stef van Buuren](stefvanbuuren.nl) [Full prof]
 - [Rianne Schouten](https://rianneschouten.github.io) [PhD Student]
-- Mingyang Cai [PhD Student]
+- [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
 
 ---
 
@@ -21,7 +21,7 @@ draft: false
 ---
 
 #### Accepted / To appear
-- R.M. Schouten, and G.Vink. (2018). The dance of the mechanisms: how observed information influences the validity of missingness assumptions. Accepted by Sociological Methods and Research
+
 
 ---
 
@@ -30,6 +30,7 @@ draft: false
 ---
 
 ##### 2018
+- Schouten, R. M., & Vink, G. (2018). The Dance of the Mechanisms: How Observed Information Influences the Validity of Missingness Assumptions. Sociological Methods & Research. [[link]](https://doi.org/10.1177/0049124118799376)
 - Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018) Generating missing values for simulation purposes: a multivariate amputation procedure, Journal of Statistical Computation and Simulation, [[link]](https://doi.org/10.1080/00949655.2018.1491577)
 - Reijntjes, A., Vermande, M., Olthof, T., Goossens, F. A., Vink, G., Aleva, L., and van der Meulen, M. (2018). Differences between resource control types revisited: A short term longitudinal study. Social Development, 27(1):187–200. [[link]](http://onlinelibrary.wiley.com/doi/10.1111/sode.12257/full)
 
