@@ -7,9 +7,10 @@ draft: false
 ---
 
 #### Meet the research team:
-- [Stef van Buuren](stefvanbuuren.nl) [Full prof]
+- [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
 - [Rianne Schouten](https://rianneschouten.github.io) [PhD Student]
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
+- [Arjan Huizing](https://github.com/ArjanHuizing) [Graduate Student]
 
 ---
 
