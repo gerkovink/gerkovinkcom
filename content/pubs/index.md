@@ -8,15 +8,23 @@ draft: false
 
 #### Meet the research team:
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
-- [Rianne Schouten](https://rianneschouten.github.io) [PhD Student]
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
-- [Arjan Huizing](https://github.com/ArjanHuizing) [Graduate Student]
+- [Hanne Oberman](https://github.com/hanneoberman)  [Junior Researcher]
+- [Jihane Cherif]()[Undergraduate Student]
+- [Chris Slewe]()[Research Assistant]
+- [Paulina von Stackelberg]() [Graduate Student]
 
 ---
 
 #### Selection of submitted/working papers
-- [with Jeroen Pannekoek and Stef van Buuren] Predictive ratio matching imputation of nested compositional data with semicontinuous variables.
 - Towards a standardised evaluation of missing data methods.
+- [with Mingyang Cai] A note on imputing squares via polynomial combination approach.
+- [with Mingyang Cai and Stef van Buuren] Multiple imputation for individual causal effects.
+- [with Mingyang Cai and Stef van Buuren] Predictive Mean matching based on Canonical Regression Analysis.
+- [with Stef van Buuren] The best prediction can be the worst imputation.
+- [with Hanne Oberman and Stef van Buuren] Missing the Point: Non-Convergence in Iterative Imputation Algorithms.
+- [with Jihane Cherif] On the statistical properties of combining ANOVAs after multiple imputation.
+- [with Jeroen Pannekoek and Stef van Buuren] Predictive ratio matching imputation of nested compositional data with semicontinuous variables.
 - [with Yvonne Stikkelbroek and more] Effectiveness and moderators of  individual Cognitive Behavioral Therapy (CBT) versus Treatment As Usual (TAU)in clinically depressed adolescents.
 
 ---
@@ -30,6 +38,12 @@ Nothing at the moment
 #### Published
 
 ---
+
+##### 2020
+- mice: Combining inferences after imputation with mice in R. https://www.gerkovink.com/MiceVignettes/Combining_inferences.html.
+
+##### 2019
+- prepr: A self-paced guided crashcourse in basic scripting with R. https://www.gerkovink.com/prepR.
 
 ##### 2018
 - Schouten, R. M., & Vink, G. (2018). The Dance of the Mechanisms: How Observed Information Influences the Validity of Missingness Assumptions. Sociological Methods & Research. [[link]](https://doi.org/10.1177/0049124118799376)
