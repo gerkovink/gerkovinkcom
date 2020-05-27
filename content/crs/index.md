@@ -12,17 +12,17 @@ I teach courses about multiple imputation and statistical programming in R to st
 
 ---
 
-#### Upcoming / recurring courses
-* April 9-10, 2019 - Utrecht University. Introduction to programming with R; FSBS only for Faculty and Staff course.
-* May 7-8, 2019 - Utrecht University. Introduction to programming with R; FSBS only for Faculty and Staff course.
-* July 15-19, 2019 – Utrecht University. Data Science: Statistical programming with R. [with Erik-Jan van Kesteren, Duco Veen and Ayoub Bagheri]
-* July 22-25, 2019 – Utrecht University. [Data Science: Multiple imputation in practice](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice). [with [Stef van Buuren](http://www.stefvanbuuren.nl)]
-* September 3, 10 and 11, 2019 - Wageningen University. Statistical programming with R.
-
+#### Recurring courses
+* July 2021 – Utrecht University. Data Science: Statistical programming with R. [with Erik-Jan van Kesteren, Duco Veen and Ayoub Bagheri]
+* July 2021 – Utrecht University. [Data Science: Multiple imputation in practice](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice). [with [Stef van Buuren](http://www.stefvanbuuren.nl)]
 
 ---
 
 #### Selection of past courses
+- January 2020, Statistical Programming in R. Rijkstrainees Data Science.
+- September 3, 10 and 11, 2019 - Wageningen University. Statistical programming with R.
+- May 7-8, 2019 - Utrecht University. Introduction to programming with R; FSBS only for Faculty and Staff course.
+- April 9-10, 2019 - Utrecht University. Introduction to programming with R; FSBS only for Faculty and Staff course.
 - April 8, 2019 - [Advanced Multilevel Imputation](https://multilevel.fss.uu.nl/course/pre-conference/). [with [Stef van Buuren](http://www.stefvanbuuren.nl)]
 - July 23-26, 2018 – Utrecht University. Data Science: Multiple imputation in practice. [with Stef van Buuren]
 - July 16-20, 2018 – Utrecht University. Data Science: Statistical programming with R. [with Erik-Jan van Kesteren, Haifang Ni-Dufour and Duco Veen]

@@ -10,9 +10,9 @@ draft: false
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Junior Researcher]
-- [Jihane Cherif]()[Undergraduate Student]
-- [Chris Slewe]()[Research Assistant]
-- [Paulina von Stackelberg]() [Graduate Student]
+- [Jihane Cherif][Undergraduate Student]
+- [Chris Slewe][Research Assistant]
+- [Paulina von Stackelberg][Graduate Student]
 
 ---
 
@@ -40,7 +40,7 @@ Nothing at the moment
 ---
 
 ##### 2020
-- mice: Combining inferences after imputation with mice in R. https://www.gerkovink.com/MiceVignettes/Combining_inferences.html.
+- mice: Combining inferences after imputation with mice in R. https://www.gerkovink.com/miceVignettes/Combining_inferences.html.
 
 ##### 2019
 - prepr: A self-paced guided crashcourse in basic scripting with R. https://www.gerkovink.com/prepR.
