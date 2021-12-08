@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Gerko Vink" # Author's name.
-    info = "statistical scientist" # Author's job title or info.
+    info = "dark data scientist" # Author's job title or info.
     description = "" # Site description.
     keywords = "Gerko Vink, Gerko, Vink, Developer, Statistician" # Site keywords.
     avatarurl = "images/gerko_cartoon.png" # Contain the path of the optionnal avatar in the static folder.
@@ -52,6 +52,10 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Mail me"
     weight = 3
     url = "mailto:G.Vink@uu.nl"
+[[params.social]]
+    name = "Twitter"
+    weight = 3
+    url = "https://twitter.com/OkregK"
 
 # Menu links
 [[menu.main]]
